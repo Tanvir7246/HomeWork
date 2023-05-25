@@ -6,7 +6,7 @@ public class AboutMe {
 	// Variable declared below.
 	public String schoolName;
 
-	// Variables Instantiated below.
+	// Variables initialized below.
 	public String fullName = "Tanvir Mahamood Saimoon";
 	public int age = 28;
 	public char gender = 'M';
@@ -18,8 +18,10 @@ public class AboutMe {
 	public short ssn = 22569;
 	
 	public static void main(String[] args) { 
+		// Class Instantiated
 		AboutMe aboutMe = new AboutMe();
-		System.out.println("My name is " + aboutMe.fullName + "\nAge:" + aboutMe.age); 
+		System.out.println("My name is: " + aboutMe.fullName + "\nMy age is: " + aboutMe.age + "\nMy age gap with my father is: "
+				+ aboutMe.ageGapWithFather  + "\nMy Gpa is: " + aboutMe.gpa); 
 		
 		
 	  
