@@ -1,4 +1,4 @@
-package hw9Abstraction;
+package hw11Abstraction.copy;
 
 public abstract class EngineeringSchool {
 
@@ -6,5 +6,8 @@ public abstract class EngineeringSchool {
 
 	public void computerLab() {
 		System.out.println("Its another non abstract method");
+
+		
+
 	};
 }
