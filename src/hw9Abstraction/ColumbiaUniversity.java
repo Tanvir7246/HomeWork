@@ -6,7 +6,7 @@ public class ColumbiaUniversity {
 	// public abstract void chemistry ();
 
 	public void biology() {
-		System.out.println("Hi, I am annoying biology.");
+		System.out.println(" Hi, I am annoying biology.");
 	};
 
 	public ColumbiaUniversity() {

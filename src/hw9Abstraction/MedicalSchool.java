@@ -5,7 +5,7 @@ public abstract class MedicalSchool {
 	public abstract void anatomyLab();
 
 	public void biochemistryLab() {
-		System.out.println("Its a non-abstract method");
+		System.out.println(" Its a non-abstract method");
 
 	};
 

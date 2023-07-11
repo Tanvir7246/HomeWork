@@ -3,6 +3,6 @@ package hw9Abstraction;
 public class RockefellerUniversity {
 
 	public void maths() {
-		System.out.println("Hi, i am math.");
+		System.out.println(" Hi, i am math.");
 	};
 }
