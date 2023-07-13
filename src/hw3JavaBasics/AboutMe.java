@@ -3,11 +3,12 @@ package hw3JavaBasics;
 
 
 public class AboutMe {
+	public String string = "String";
 	// Variable declared below.
 	public String schoolName;
 
 	// Variables initialized below.
-	public String fullName = "Tanvir Mahamood Saimoon";
+	public String fullName = " Tanvir Mahamood Saimoon";
 	public int age = 28;
 	public char gender = 'M';
 	public boolean bdCitizen = false;
@@ -21,7 +22,7 @@ public class AboutMe {
 		// Class Instantiated
 		AboutMe aboutMe = new AboutMe();
 		System.out.println("My name is: " + aboutMe.fullName + "\nMy age is: " + aboutMe.age + "\nMy age gap with my father is: "
-				+ aboutMe.ageGapWithFather  + "\nMy Gpa is: " + aboutMe.gpa); 
+				+ aboutMe.ageGapWithFather  + "\nMy Gpa is: " + aboutMe.gpa );
 		
 		
 	  
