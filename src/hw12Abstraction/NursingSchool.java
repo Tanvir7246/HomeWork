@@ -1,6 +1,6 @@
-package hw11Abstraction.copy;
+package hw12Abstraction;
 
-public abstract class NursingSchool  {
+public abstract class NursingSchool extends RockefellerUniversity {
 
 	public abstract void hygiene();
 

@@ -1,4 +1,4 @@
-package hw11Abstraction.copy;
+package hw12Abstraction;
 
 public interface Hospital {
 	public void emergencyRoom();

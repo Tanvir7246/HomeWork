@@ -1,4 +1,4 @@
-package hw11Abstraction.copy;
+package hw11Abstraction;
 
 public class RockefellerUniversity {
 

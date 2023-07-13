@@ -1,6 +1,6 @@
-package hw11Abstraction.copy;
+package hw12Abstraction;
 
-public interface University {
+public interface University extends College, Hospital{
 
 	public void classsize();
 

@@ -1,6 +1,6 @@
-package hw11Abstraction.copy;
+package hw12Abstraction;
 
-public abstract class MedicalSchool {
+public abstract class MedicalSchool  extends NursingSchool implements Lawschool {
 
 	public abstract void anatomyLab();
 
